@@ -11,3 +11,7 @@ let obj2 = {
 let obj3 = {
   a: 2,
 };
+let obj4 = {
+    a: 2,
+  };
+  
